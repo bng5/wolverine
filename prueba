@@ -1,5 +1,4 @@
 #!/bin/sh
-#cd $PWD
-cd /home/pablo/python/pygame_pruebas
+cd $(dirname $0)
 import -window root -silent ./Datos/fondo.png
 /usr/bin/env python ./wolverine.py
