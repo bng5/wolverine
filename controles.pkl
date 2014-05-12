@@ -1,0 +1,14 @@
+(dp0
+S'izquierda'
+p1
+I306
+sS'arriba'
+p2
+I99
+sS'abajo'
+p3
+I306
+sS'derecha'
+p4
+I99
+s.
